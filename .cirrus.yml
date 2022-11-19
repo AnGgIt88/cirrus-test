@@ -10,4 +10,4 @@ task:
     memory: 16G
 
   Test_script:
-     - env
+     - grep author
